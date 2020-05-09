@@ -364,7 +364,8 @@ footer {
 
 #about p {
 	color: #74808a;
-	margin: 0
+	margin: 1.5em;
+	text-align: justify
 }
 
 #experience {
@@ -434,7 +435,8 @@ footer {
 .vtimeline-content p {
 	color: #74808a;
 	font-size: 0.9em;
-	margin: 0
+	margin-bottom: 1.5em;
+	text-align: justify
 }
 
 .vtimeline-point {
@@ -514,7 +516,8 @@ footer {
 .education-block ul {
 	margin: 0;
 	color: #74808a;
-	font-size: 0.9em
+	font-size: 0.9em;
+	text-align: justify
 }
 
 .education-block ul {
